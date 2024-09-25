@@ -1,0 +1,4 @@
+repository "TempProject@lokeshvashisht4321@cloud"
+  path "/"
+    br "/main"
+    co "/main"
